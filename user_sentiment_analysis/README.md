@@ -43,5 +43,5 @@ The SQL includes robust data preprocessing essential for reliable analytics:
 
 The **Looker Studio dashboard**, powered by the view generated from this SQL, is available for demonstration:
 
-[➡️ Access the Live Sentiment Analysis Dashboard]
-(Please insert your Looker Studio URL here)
+[➡️ Access the Live Sentiment Analysis Dashboard](https://lookerstudio.google.com/u/0/reporting/2a104186-f0ac-4e2f-bae9-d711dd2b96ab/page/QOHrE)
+
